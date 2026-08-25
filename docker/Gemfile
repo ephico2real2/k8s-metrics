@@ -10,7 +10,7 @@ gem "fluent-plugin-jq", "=0.5.1"
 gem "oj", "~> 3.10"
 gem 'multi_json', '~> 1.14'
 gem 'bigdecimal', '=3.0.0'
-gem 'kubeclient', '=4.9.3'
+gem 'kubeclient', '~> 4.13'
 gem 'http_parser.rb', '=0.8.0'
 gem 'rack', '>= 3.0.0'
 gem 'cgi', '~> 0.3.6'
